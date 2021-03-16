@@ -19,7 +19,7 @@ namespace People_Test
         public void GetEmailTest()
         {
             Assert.AreEqual("csgo299@yandex.ru", people.Email);
-
+            //sdfsdf
         }
 
         [TestMethod]
